@@ -1,4 +1,4 @@
-# H3-TahaAltuntas-SpaceBattle
+# H3-SpaceBattle
 Rollic &amp; oFON Hyper-Casual Mobile Game Development Bootcamp
 
 
